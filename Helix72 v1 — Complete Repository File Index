@@ -1,0 +1,78 @@
+Core Canon Files
+README.md  
+Primary overview of Helix72 v1.
+
+HELIX72_v1.UISL2  
+Strict‑mode UISL2 capsule — single source of truth.
+
+HELIX72_v1.md  
+Human‑readable canonical description.
+
+LICENSE  
+Founder‑Safe Non‑Derivative License.
+
+PATENT_NOTICE.md  
+Declares derivative relationship to ARYN’s Ladder patent.
+
+ZENODO_REFERENCE.md  
+Official DOI reference for archival.
+
+Governance & Policy
+CONTRIBUTING.md  
+No contributions accepted.
+
+CODE_OF_CONDUCT.md  
+No community interaction; respect canon integrity.
+
+SECURITY.md  
+No vulnerability reports; no attack surface.
+
+GOVERNANCE.md  
+Defines who controls canon and how updates occur.
+
+CANON_RULES.md  
+Meta‑rules defining what is and is not canon.
+
+Versioning & Release
+CHANGELOG.md  
+Linear record of canonical changes.
+
+RELEASE_NOTES.md  
+Narrative explanation of the v1 release.
+
+VERSION  
+Canonical version identifier: 1.0.0.
+
+CITATION.cff  
+GitHub citation metadata linked to DOI.
+
+Scientific Structure
+ARCHITECTURE.md  
+High‑level structural overview of Helix72.
+
+STRUCTURE_DIAGRAM.md  
+ASCII diagram of the entire architecture.
+
+INVARIANTS.md  
+Unbreakable mathematical and structural truths.
+
+VALIDATION_RULES.md  
+Strict rules a validator must enforce.
+
+VALIDATOR_IMPLEMENTATION_GUIDE.md  
+Step‑by‑step instructions for building a validator.
+
+Authorship & Novelty
+ATTRIBUTION.md  
+Declares 100% original authorship.
+
+NOVELTY.md  
+Documents all novel scientific contributions.
+
+Roadmap & Future
+ROADMAP.md  
+Planned evolution of Helix72 and future versions.
+
+Documentation Folder
+docs/README.md  
+Index for extended documentation.
