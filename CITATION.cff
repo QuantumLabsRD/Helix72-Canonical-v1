@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Helix72 v1 — Canonical Axial Stability Framework"
+message: "If you use this work, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "LaFountaine"
+    given-names: "Denny Michael"
+    affiliation: "Quantum Labs Research & Development LLC"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.17812304"
+repository-code: "https://github.com/QuantumLabsRD/Helix72-Canonical-v1"
+url: "https://doi.org/10.5281/zenodo.17812304"
+version: "1.0.0"
+date-released: "2026-02-13"
+abstract: "Helix72 v1 is a deterministic 36‑unit axial stability model derived from the patented ARYN’s Ladder system, formalized in UISL2 for reproducible computational interpretation."
